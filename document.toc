@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}دیپ‌فیک چیست؟}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}دیپ‌فیک از کجا می آید؟}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}\lr {GAN}}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}دیپ فیک \lr {Deepfake} چگونه ایجاد می شود؟}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}بد: جعل، تحقیر، و دروغ}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}زشت: گرداب بی‌پایان رقابت‌ها}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}آیا ساخت دیپ فیک آسان است؟}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}میتوان دیپ فیک ها را شکار کرد؟}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}نتیجه این شکار دیپ فیک ها چیست؟}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}تهدید دیپ فیک \lr {Deepfake} چه قدر جدی است؟}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}آیا \lr {Deepfakes} مهمترین تهدید در آینده خواهد بود؟}{7}{section.3.5}%
+\contentsline {chapter}{\numberline {4}خوب: هوش مصنوعی شبه‌انسانی و تعاملات ارتباطی نو}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی}{10}{chapter.5}%
+\contentsline {chapter}{مراجع}{11}{chapter*.2}%
